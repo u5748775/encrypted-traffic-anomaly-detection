@@ -1,0 +1,18 @@
+# Data (CICIDS2017 raw dataset is too large for git)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+venv/
+
+# Local backup archive (not needed in version control)
+requirements.zip

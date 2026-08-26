@@ -1,0 +1,27 @@
+,Mean,Std Dev,Min,Max
+Flow Duration,0.0,1.0,-0.39,3.4584
+Total Fwd Packets,0.0,1.0,-0.0119,249.1707
+Total Backward Packets,-0.0,1.0,-0.0113,248.8182
+Total Length of Fwd Packets,0.0,1.0,-0.0574,1082.7516
+Total Length of Bwd Packets,0.0,1.0,-0.0078,246.4427
+Fwd Packet Length Mean,0.0,1.0,-0.3299,21.6631
+Fwd Packet Length Std,0.0,1.0,-0.2497,21.7531
+Bwd Packet Length Mean,-0.0,1.0,-0.5848,12.3654
+Bwd Packet Length Std,0.0,1.0,-0.4699,14.0079
+Flow Bytes/s,-0.0,1.0,-6.7437,71.6878
+Flow Packets/s,-0.0,1.0,-9.3901,18.0447
+Flow IAT Mean,0.0,1.0,-0.2326,28.5001
+Flow IAT Std,0.0,1.0,-0.281,13.6307
+Fwd IAT Mean,0.0,1.0,-0.2129,12.2654
+Fwd IAT Std,-0.0,1.0,-0.2802,17.1882
+Bwd IAT Mean,0.0,1.0,-0.202,12.3257
+Bwd IAT Std,-0.0,1.0,-0.2495,19.2746
+Fwd Header Length,-0.0,1.0,-1199.6354,0.1744
+Bwd Header Length,0.0,1.0,-569.6158,3.0993
+Fwd Packets/s,0.0,1.0,-0.2256,14.038
+Bwd Packets/s,-0.0,1.0,-0.1642,52.2225
+Packet Length Mean,-0.0,1.0,-0.6006,16.7014
+Packet Length Std,-0.0,1.0,-0.503,14.4352
+Average Packet Size,-0.0,1.0,-0.6463,18.5438
+Avg Fwd Segment Size,0.0,1.0,-0.3299,21.6631
+Avg Bwd Segment Size,-0.0,1.0,-0.5848,12.3654
